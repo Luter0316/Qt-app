@@ -1,0 +1,350 @@
+0
+Amedeo Modigliani
+1884 - 1920
+Expressionism
+Italian
+http://en.wikipedia.org/wiki/Amedeo_Modigliani
+193
+1
+Vasiliy Kandinskiy
+1866 - 1944
+Expressionism,Abstractionism
+Russian
+http://en.wikipedia.org/wiki/Wassily_Kandinsky
+88
+2
+Diego Rivera
+1886 - 1957
+Social Realism,Muralism
+Mexican
+http://en.wikipedia.org/wiki/Diego_Rivera
+70
+3
+Claude Monet
+1840 - 1926
+Impressionism
+French
+http://en.wikipedia.org/wiki/Claude_Monet
+73
+4
+Rene Magritte
+1898 - 1967
+Surrealism,Impressionism
+Belgian
+http://en.wikipedia.org/wiki/René_Magritte
+194
+5
+Salvador Dali
+1904 - 1989
+Surrealism
+Spanish
+http://en.wikipedia.org/wiki/Salvador_Dalí
+139
+6
+Edouard Manet
+1832 - 1883
+Realism,Impressionism
+French
+http://en.wikipedia.org/wiki/Édouard_Manet
+90
+7
+Andrei Rublev
+1360 - 1430
+Byzantine Art
+Russian
+http://en.wikipedia.org/wiki/Andrei_Rublev
+99
+8
+Vincent van Gogh
+1853 - 1890
+Post-Impressionism
+Dutch
+http://en.wikipedia.org/wiki/Vincent_van_Gogh
+877
+9
+Gustav Klimt
+1862 - 1918
+Symbolism,Art Nouveau
+Austrian
+http://en.wikipedia.org/wiki/Gustav_Klimt
+117
+10
+Hieronymus Bosch
+1450 - 1516
+Northern Renaissance
+Dutch
+http://en.wikipedia.org/wiki/Hieronymus_Bosch
+137
+11
+Kazimir Malevich
+1879 - 1935
+Suprematism
+Russian
+http://en.wikipedia.org/wiki/Kazimir_Malevich
+126
+12
+Mikhail Vrubel
+1856 - 1910
+Symbolism
+Russian
+http://en.wikipedia.org/wiki/Mikhail_Vrubel
+171
+13
+Pablo Picasso
+1881 - 1973
+Cubism
+Spanish
+http://en.wikipedia.org/wiki/Pablo_Picasso
+439
+14
+Peter Paul Rubens
+1577 - 1640
+Baroque
+Flemish
+http://en.wikipedia.org/wiki/Peter_Paul_Rubens
+141
+15
+Pierre-Auguste Renoir
+1841 - 1919
+Impressionism
+French
+http://en.wikipedia.org/wiki/Pierre-Auguste_Renoir
+336
+16
+Francisco Goya
+1746 - 1828
+Romanticism
+Spanish
+http://en.wikipedia.org/wiki/Francisco_Goya
+291
+17
+Frida Kahlo
+1907 - 1954
+Primitivism,Surrealism
+Mexican
+http://en.wikipedia.org/wiki/Frida_Kahlo
+120
+18
+El Greco
+1541 - 1614
+Mannerism
+Spanish,Greek
+http://en.wikipedia.org/wiki/El_Greco
+87
+19
+Albrecht Dürer
+1471 - 1528
+Northern Renaissance
+German
+http://en.wikipedia.org/wiki/Albrecht_Dürer
+328
+20
+Alfred Sisley
+1839 - 1899
+Impressionism
+French,British
+http://en.wikipedia.org/wiki/Alfred_Sisley
+259
+21
+Pieter Bruegel
+1525 - 1569
+Northern Renaissance
+Flemish
+http://en.wikipedia.org/wiki/Pieter_Bruegel_the_Elder
+134
+22
+Marc Chagall
+1887 - 1985
+Primitivism
+French,Jewish,Belarusian
+http://en.wikipedia.org/wiki/Marc_Chagall
+239
+23
+Giotto di Bondone
+1266 - 1337
+Proto Renaissance
+Italian
+http://en.wikipedia.org/wiki/Giotto_di_Bondone
+119
+24
+Sandro Botticelli
+1445 - 1510
+Early Renaissance
+Italian
+http://en.wikipedia.org/wiki/Sandro_Botticelli
+164
+25
+Caravaggio
+1571 - 1610
+Baroque
+Italian
+http://en.wikipedia.org/wiki/Caravaggio
+55
+26
+Leonardo da Vinci
+1452 - 1519
+High Renaissance
+Italian
+http://en.wikipedia.org/wiki/Leonardo_da_Vinci
+143
+27
+Diego Velazquez
+1599 - 1660
+Baroque
+Spanish
+http://en.wikipedia.org/wiki/Diego_Velázquez
+128
+28
+Henri Matisse
+1869 - 1954
+Impressionism,Post-Impressionism
+French
+http://en.wikipedia.org/wiki/Henri_Matisse
+186
+29
+Jan van Eyck
+1395 - 1441
+Northern Renaissance
+Flemish
+http://en.wikipedia.org/wiki/Jan_van_Eyck
+81
+30
+Edgar Degas
+1834 - 1917
+Impressionism
+French
+http://en.wikipedia.org/wiki/Edgar_Degas
+702
+31
+Rembrandt
+1606 - 1669
+Baroque
+Dutch
+http://en.wikipedia.org/wiki/Rembrandt
+262
+32
+Titian
+1488 - 1576
+High Renaissance,Mannerism
+Italian
+http://en.wikipedia.org/wiki/Titian
+255
+33
+Henri de Toulouse-Lautrec
+1864 - 1901
+Post-Impressionism
+French
+https://en.wikipedia.org/wiki/Henri_de_Toulouse-Lautrec
+81
+34
+Gustave Courbet
+1819 - 1877
+Realism
+French
+https://en.wikipedia.org/wiki/Gustave_Courbet
+59
+35
+Camille Pissarro
+1830 - 1903
+Impressionism,Post-Impressionism
+French
+https://en.wikipedia.org/wiki/Camille_Pissarro
+91
+36
+William Turner
+1775 - 1851
+Romanticism
+British
+https://en.wikipedia.org/wiki/J._M._W._Turner
+66
+37
+Edvard Munch
+1863 - 1944
+Symbolism,Expressionism
+Norwegian
+https://en.wikipedia.org/wiki/Edvard_Munch
+67
+38
+Paul Cezanne
+1839 - 1906
+Post-Impressionism
+French
+https://en.wikipedia.org/wiki/Paul_Cézanne
+47
+39
+Eugene Delacroix
+1798 - 1863
+Romanticism
+French
+https://en.wikipedia.org/wiki/Eugène_Delacroix
+31
+40
+Henri Rousseau
+1844 - 1910
+Primitivism
+French
+https://en.wikipedia.org/wiki/Henri_Rousseau
+70
+41
+Georges Seurat
+1859 - 1891
+Post-Impressionism
+French
+https://en.wikipedia.org/wiki/Georges_Seurat
+43
+42
+Paul Klee
+1879 - 1940
+Expressionism,Abstractionism,Surrealism
+German,Swiss
+https://en.wikipedia.org/wiki/Paul_Klee
+188
+43
+Piet Mondrian
+1872 - 1944
+Neoplasticism
+Dutch
+https://en.wikipedia.org/wiki/Piet_Mondrian
+84
+44
+Joan Miro
+1893 - 1983
+Surrealism
+Spanish
+https://en.wikipedia.org/wiki/Joan_Miró
+102
+45
+Andy Warhol
+1928 - 1987
+Pop Art
+American
+https://en.wikipedia.org/wiki/Andy_Warhol
+181
+46
+Paul Gauguin
+1848 - 1903
+Symbolism,Post-Impressionism
+French
+http://en.wikipedia.org/wiki/Paul_Gauguin
+311
+47
+Raphael
+1483 - 1520
+High Renaissance
+Italian
+https://en.wikipedia.org/wiki/Raphael
+109
+48
+Michelangelo
+1475 - 1564
+High Renaissance
+Italian
+https://en.wikipedia.org/wiki/Michelangelo
+49
+49
+Jackson Pollock
+1912 - 1956
+Abstract Expressionism
+American
+http://en.wikipedia.org/wiki/Jackson_Pollock
+24
